@@ -1,4 +1,4 @@
-# ⚛️ Quantum-Quest: Next-Gen Fraud Detection using Variational Quantum Classifiers (VQC)
+# ⚛️ Quantum Machine Learning for Fraud Detection using an Improved Variational Quantum Classifier (VQC)
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python)
 ![PennyLane](https://img.shields.io/badge/PennyLane-Quantum_ML-purple?style=for-the-badge)
