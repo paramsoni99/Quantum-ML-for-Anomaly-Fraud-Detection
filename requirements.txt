@@ -1,0 +1,14 @@
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+
+pennylane
+pennylane-qiskit 
+scikit-learn
+torch
