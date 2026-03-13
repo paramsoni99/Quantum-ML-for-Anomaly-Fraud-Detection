@@ -12,3 +12,7 @@ pennylane
 pennylane-qiskit 
 scikit-learn
 torch
+
+
+streamlit
+joblib
