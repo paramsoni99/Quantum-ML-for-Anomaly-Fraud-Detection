@@ -7,12 +7,12 @@ matplotlib
 seaborn
 plotly
 
-
+# Quantum & ML
 pennylane
 pennylane-qiskit 
 scikit-learn
 torch
 
-
-streamlit
+# Deployment
+streamlit>=1.32.0
 joblib
