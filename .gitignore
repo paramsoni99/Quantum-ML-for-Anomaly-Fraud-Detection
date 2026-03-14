@@ -87,6 +87,7 @@ data/raw/*
 results/
 logs/
 *.log
+
 # Large dataset files
 dataset/Base.csv
 
@@ -96,6 +97,12 @@ qiskit.log
 
 # Model artifacts
 *.pkl
+# ALLOW the Streamlit deployment models:
+!pca.pkl
+!scaler.pkl
+!best_params.pkl
+!threshold.pkl
+
 *.joblib
 models/
 checkpoints/
